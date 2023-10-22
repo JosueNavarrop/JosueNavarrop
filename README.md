@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JosueNavarrop
-- 👀 I’m interested in: Desktop applications
+- 👀 I’m interested in: Desktop applications, Web develoment, Api Rest and more..
 - 🌱 I’m currently learning: C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: josuenavarrop2003janp@gmail.com
